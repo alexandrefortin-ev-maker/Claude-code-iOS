@@ -4,6 +4,12 @@ Site web de présentation de la propriété (16 000 000 $) — Engel & Völkers,
 
 Site statique bilingue (FR/EN) sans dépendances : HTML, CSS et JavaScript vanille.
 
+**Site en ligne : https://alexandrefortin-ev-maker.github.io/Claude-code-iOS/**
+
+Publication : GitHub Pages sert la branche `gh-pages`; chaque push sur la branche
+principale du site la resynchronise automatiquement (workflow
+`.github/workflows/deploy-pages.yml`).
+
 ## Structure
 
 ```
