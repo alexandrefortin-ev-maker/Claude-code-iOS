@@ -197,6 +197,12 @@ button { font: inherit; background: none; border: none; cursor: pointer; color: 
 .duo { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(1rem, 2.4vw, 2rem); margin-top: clamp(1rem, 2.4vw, 2rem); }
 .duo img { width: 100%; height: clamp(240px, 38vw, 460px); object-fit: cover; }
 
+.trio { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1rem, 2vw, 1.6rem); margin-bottom: clamp(2.5rem, 5vh, 4rem); }
+.trio img { width: 100%; height: clamp(200px, 26vw, 340px); object-fit: cover; }
+
+.dusk-bleed { margin-top: 0; }
+.dusk-bleed img { height: clamp(380px, 80vh, 820px); }
+
 /* ---------- Split ---------- */
 
 .split {
@@ -418,6 +424,7 @@ button { font: inherit; background: none; border: none; cursor: pointer; color: 
   body.nav-open .nav-burger span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
   .nav-burger { display: flex; }
   .duo { grid-template-columns: 1fr; }
+  .trio { grid-template-columns: 1fr; }
   .terre-grid { grid-template-columns: 1fr; }
   .gallery { grid-template-columns: repeat(2, 1fr); }
   .auto-grid { grid-template-columns: 1fr; }

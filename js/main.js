@@ -85,8 +85,10 @@
     "terre.p1": "In June, lavender blooms across the formerly certified-organic plantation. The orchard lines up plum, pear, apple and cherry trees, blueberries and haskaps. The forest, under a complete management plan, opens onto kilometres of fenced trails — and the lake waits, with its two docks and electric pontoon.",
     "terre.c1": "The private lake — swimming, docks and pontoon",
     "terre.c2": "Lavender and orchard — summer in bloom",
-    "terre.c3": "Natural stone walls, bridges and arches",
-    "terre.c4": "The private paved drive, from road to residence",
+    "terre.c3": "Waterfalls, streams and bridges through the forest",
+    "terre.c5": "Afternoons at the water's edge",
+    "terre.c6": "The entrance gate and private paved drive",
+    "terre.c7": "Electric pontoon, paddle boats and kayaks — included",
     "terre.l1": "Lavender field — formerly certified organic production",
     "terre.l2": "Orchard: plums, pears, apples, cherries, blueberries, haskaps, sea buckthorn",
     "terre.l3": "Three oxygenated ponds, streams and waterfalls",
@@ -193,6 +195,13 @@
     if (i === 34 || i === 35) continue; // panneau nominatif / personne visible — confidentialité
     NUMS.push(i);
   }
+  // sélection de la propriétaire (jour), puis séquence crépuscule
+  NUMS = NUMS.concat([
+    142, 143, 144, 145, 150, 151, 152, 156, 157,
+    253, 257, 261, 263, 267, 269, 280, 281, 282,
+    284, 285, 286, 288, 289, 292, 293, 294, 296, 297, 300, 302,
+    305, 306, 310, 311, 315, 316, 318, 319, 324, 329, 330
+  ]);
 
   var gallery = document.getElementById("gallery");
   var frag = document.createDocumentFragment();
