@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+  @font-face { font-family: "Cormorant Garamond"; font-weight: 400 600; src: url("fonts/CormorantGaramond.woff2") format("woff2"); }
+  @font-face { font-family: "Cormorant Garamond"; font-style: italic; font-weight: 400; src: url("fonts/CormorantGaramond-Italic.woff2") format("woff2"); }
+  @font-face { font-family: "Jost"; font-weight: 300 500; src: url("fonts/Jost.woff2") format("woff2"); }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 700px; font-family: "Jost", sans-serif; color: #1a1a1a; background: #ffffff; }
+  .wrap { width: 700px; }
+
+  .ev-header { padding: 30px 48px 24px; text-align: center; background: #ffffff; }
+  .ev-wordmark { font-family: "Jost"; font-weight: 400; font-size: 21px; letter-spacing: 0.38em; color: #1a1a1a; }
+  .ev-sub { margin-top: 5px; font-size: 10.5px; letter-spacing: 0.32em; color: #8a8a8a; text-transform: uppercase; }
+  .ev-rule { width: 100%; height: 3px; background: #E3000F; }
+
+  .hero { position: relative; }
+  .hero img { width: 700px; height: 430px; object-fit: cover; display: block; }
+  .badge {
+    position: absolute; top: 22px; left: 0;
+    background: #E3000F; color: #fff;
+    font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase;
+    padding: 9px 22px 8px;
+  }
+
+  .title-block { text-align: center; padding: 44px 48px 8px; }
+  .title { font-family: "Cormorant Garamond", serif; font-weight: 500; font-size: 47px; letter-spacing: 0.03em; line-height: 1.05; }
+  .subtitle { margin-top: 10px; font-size: 12.5px; letter-spacing: 0.3em; text-transform: uppercase; color: #6f6a60; }
+  .price { margin-top: 22px; font-family: "Cormorant Garamond", serif; font-size: 33px; font-weight: 500; }
+  .addr { margin-top: 6px; font-size: 11.5px; letter-spacing: 0.22em; text-transform: uppercase; color: #8a8a8a; }
+
+  .lede { padding: 30px 84px 38px; text-align: center; }
+  .lede p { font-family: "Cormorant Garamond", serif; font-style: italic; font-size: 21.5px; line-height: 1.55; color: #3c3a36; }
+
+  .duo { display: flex; gap: 4px; }
+  .duo img { width: 348px; height: 250px; object-fit: cover; display: block; }
+
+  .specs { display: flex; flex-wrap: wrap; padding: 38px 48px 10px; }
+  .spec { width: 50%; padding: 0 10px 26px 26px; position: relative; }
+  .spec::before { content: ""; position: absolute; left: 0; top: 7px; width: 14px; height: 1px; background: #E3000F; }
+  .spec b { display: block; font-family: "Cormorant Garamond", serif; font-weight: 600; font-size: 19px; letter-spacing: 0.01em; }
+  .spec span { font-size: 13px; color: #6f6a60; line-height: 1.55; }
+
+  .cta-block { text-align: center; padding: 26px 48px 46px; }
+  .cta {
+    display: inline-block; background: #1a1a1a; color: #ffffff;
+    font-size: 12.5px; letter-spacing: 0.28em; text-transform: uppercase;
+    padding: 17px 44px; text-decoration: none;
+  }
+  .cta-note { margin-top: 14px; font-size: 11.5px; letter-spacing: 0.14em; color: #8a8a8a; text-transform: uppercase; }
+
+  .footer { background: #1a1a1a; color: #f5f2ea; text-align: center; padding: 34px 48px 36px; }
+  .f-team { font-family: "Cormorant Garamond", serif; font-size: 22px; font-weight: 500; }
+  .f-brand { margin-top: 5px; font-size: 10.5px; letter-spacing: 0.4em; text-transform: uppercase; color: #c4ad83; }
+  .f-mail { margin-top: 12px; font-size: 13px; letter-spacing: 0.05em; color: #f5f2ea; }
+  .f-site { margin-top: 4px; font-size: 11.5px; color: #9b968c; }
+  .f-rule { width: 44px; height: 1px; background: #E3000F; margin: 16px auto 0; }
+  .f-legal { margin-top: 14px; font-size: 9.5px; color: #6f6a60; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="ev-header">
+    <div class="ev-wordmark">ENGEL&nbsp;&amp;&nbsp;VÖLKERS</div>
+    <div class="ev-sub">Équipe Deslauriers Fortin · Cantons-de-l'Est</div>
+  </div>
+  <div class="ev-rule"></div>
+
+  <div class="hero">
+    <img src="img/d324-large.jpg" alt="Le Phare au crépuscule derrière le lac privé">
+    <div class="badge">Nouvelle inscription</div>
+  </div>
+
+  <div class="title-block">
+    <div class="title">Domaine Dymond</div>
+    <div class="subtitle">Dunham · Cantons-de-l'Est · Québec</div>
+    <div class="price">16 000 000 $</div>
+    <div class="addr">1155-1157, chemin Dymond, Dunham</div>
+  </div>
+
+  <div class="lede">
+    <p>« Un monde en soi — 151,85 acres de lavande, de vergers et de forêt autour d'un lac privé, à une heure trente de Montréal. »</p>
+  </div>
+
+  <div class="duo">
+    <img src="img/d292-large.jpg" alt="Le salon du Phare au crépuscule">
+    <img src="img/d43-large.jpg" alt="Vue aérienne du domaine, lac et lavande">
+  </div>
+
+  <div class="specs">
+    <div class="spec"><b>151,85 acres</b><span>Territoire clôturé, lac privé, champ de lavande, verger et forêt aménagée</span></div>
+    <div class="spec"><b>Résidence signature 2022</b><span>8 194 pi² — mur-rideau sur le lac, garantie GCR jusqu'en 2027</span></div>
+    <div class="spec"><b>4 chambres · 7 salles de bain</b><span>Piscine intérieure, sauna, gymnase et piscine à débordement</span></div>
+    <div class="spec"><b>12 bâtiments</b><span>Maison patrimoniale de 1880, loft d'invités, grange, ateliers, serre</span></div>
+    <div class="spec"><b>Autonomie complète</b><span>Géothermie, 4 génératrices, fibre optique, entrée de 600 A</span></div>
+    <div class="spec"><b>À 1 h 30 de Montréal</b><span>Aux abords de la route des vins, à 20 minutes de Bromont</span></div>
+  </div>
+
+  <div class="cta-block">
+    <a class="cta" href="https://alexandrefortin-ev-maker.github.io/Claude-code-iOS/">Découvrir le domaine</a>
+    <div class="cta-note">Visites privées sur rendez-vous · acheteurs qualifiés</div>
+  </div>
+
+  <div class="footer">
+    <div class="f-team">Équipe Deslauriers Fortin</div>
+    <div class="f-brand">Engel &amp; Völkers</div>
+    <div class="f-mail">alexandre.fortin@engelvoelkers.com</div>
+    <div class="f-site">alexandrefortin-ev-maker.github.io/Claude-code-iOS</div>
+    <div class="f-rule"></div>
+    <div class="f-legal">Les renseignements présentés sont fournis à titre indicatif et ne constituent pas une offre.<br>© 2026 Engel &amp; Völkers. Tous droits réservés.</div>
+  </div>
+</div>
+</body>
+</html>
