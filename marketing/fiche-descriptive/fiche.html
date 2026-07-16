@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9.5pt; color: #1a1a1a; line-height: 1.42; }
+  .page { padding: 0; }
+
+  .courtier { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #E3000F; padding-bottom: 10px; margin-bottom: 12px; }
+  .courtier-l .nom { font-size: 12pt; font-weight: 700; }
+  .courtier-l .inc { font-size: 9pt; }
+  .courtier-l .agence { font-size: 9.5pt; font-weight: 700; margin-top: 2px; letter-spacing: 0.02em; }
+  .courtier-r { text-align: right; font-size: 8.5pt; color: #333; }
+
+  .ident { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .adresse { font-size: 15pt; font-weight: 700; }
+  .prix { font-size: 15pt; font-weight: 700; }
+  .sous-ident { display: flex; justify-content: space-between; font-size: 8.5pt; color: #444; margin-bottom: 10px; }
+
+  h2 { font-size: 10pt; text-transform: uppercase; letter-spacing: 0.06em; background: #f0ede6; padding: 4px 8px; margin: 14px 0 6px; border-left: 3px solid #E3000F; }
+
+  table { width: 100%; border-collapse: collapse; }
+  .grid td { padding: 2.5px 8px 2.5px 0; vertical-align: top; }
+  .grid td.k { color: #555; width: 26%; }
+  .grid td.v { font-weight: 600; width: 24%; }
+
+  .bat th, .bat td { border-bottom: 0.5pt solid #d8d3c8; padding: 3.5px 6px; text-align: left; font-size: 8.7pt; vertical-align: top; }
+  .bat th { background: #faf7f0; font-size: 8pt; text-transform: uppercase; letter-spacing: 0.04em; color: #555; }
+
+  .pieces td { border-bottom: 0.5pt solid #e5e0d5; padding: 3px 6px; font-size: 8.8pt; vertical-align: top; }
+  .pieces td:first-child { width: 14%; color: #555; }
+  .pieces td:nth-child(2) { width: 30%; font-weight: 600; }
+
+  p.txt { margin: 4px 0; text-align: justify; }
+  .note { font-size: 8pt; color: #777; font-style: italic; }
+  .legal { margin-top: 16px; padding-top: 8px; border-top: 0.5pt solid #ccc; font-size: 7.5pt; color: #777; line-height: 1.5; }
+  .pagebreak { break-before: page; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="courtier">
+    <div class="courtier-l">
+      <div class="nom">Alexandre Fortin, Courtier immobilier résidentiel et commercial</div>
+      <div class="inc">Alexandre Fortin inc.</div>
+      <div class="agence">ENGEL &amp; VÖLKERS MONTRÉAL, Agence immobilière</div>
+    </div>
+    <div class="courtier-r">
+      2-751, rue Shefford<br>
+      Bromont (QC) J2L 1C2<br>
+      Bureau : 514-507-7888<br>
+      450-522-3639 / 450-534-3370<br>
+      alexandre.fortin@engelvoelkers.com<br>
+      https://deslauriersfortin.evimmobilier.com
+    </div>
+  </div>
+
+  <div class="ident">
+    <div class="adresse">1155-1157, Ch. Dymond, Dunham</div>
+    <div class="prix">16 000 000 $</div>
+  </div>
+  <div class="sous-ident">
+    <div>Région : Estrie (MRC Brome-Missisquoi) &nbsp;·&nbsp; Près de : Ch. Selby, route des vins &nbsp;·&nbsp; Plan d'eau : Lac privé &nbsp;·&nbsp; J0E 1M0</div>
+    <div>No Centris : à attribuer</div>
+  </div>
+
+  <h2>Caractéristiques générales</h2>
+  <table class="grid">
+    <tr><td class="k">Genre de propriété</td><td class="v">Domaine — résidence de prestige</td><td class="k">Année de construction</td><td class="v">2022 (résidence principale)</td></tr>
+    <tr><td class="k">Type de bâtiment</td><td class="v">Isolé (détaché)</td><td class="k">Garantie</td><td class="v">GCR — maison neuve, jusqu'en 2027</td></tr>
+    <tr><td class="k">Superficie habitable</td><td class="v">8 194 pi² (rés. principale)</td><td class="k">Sous-sol</td><td class="v">5 330 pi² (salle mécanique, gymnase)</td></tr>
+    <tr><td class="k">Superficie du terrain</td><td class="v">151,85 ac (614 515 m²)</td><td class="k">Terrasses</td><td class="v">3 363 pi²</td></tr>
+    <tr><td class="k">Cadastre</td><td class="v">4 238 677, 4 510 378</td><td class="k">Zonage</td><td class="v">Résidentiel, Agricole</td></tr>
+    <tr><td class="k">Intergénération</td><td class="v">Oui — logements multiples</td><td class="k">Cert. de localisation</td><td class="v">À jour</td></tr>
+    <tr><td class="k">Résidence secondaire</td><td class="v">« Le Chalet » — 1 853 pi², ≈ 1880</td><td class="k">Zone inondable</td><td class="v">Hors zone — aucune limitation patrimoniale</td></tr>
+  </table>
+
+  <h2>Évaluation et taxes</h2>
+  <table class="grid">
+    <tr><td class="k">Évaluation municipale</td><td class="v">≈ 7 070 700 $ (rôle 2026, ensemble)</td><td class="k">Dont 1155 (lot 4 510 378)</td><td class="v">1 127 200 $</td></tr>
+    <tr><td class="k">Taxes municipale / scolaire</td><td class="v" colspan="3">À confirmer au rôle courant — voir courtier inscripteur</td></tr>
+  </table>
+
+  <h2>Pièces et espaces — résidence principale « Le Phare » (2022)</h2>
+  <table class="pieces">
+    <tr><td>Niveau</td><td>Pièce / espace</td><td>Information supplémentaire</td></tr>
+    <tr><td>RDC</td><td>Aire de vie ouverte</td><td>Plafonds 12 pi, cathédrale 16-17 pi en peuplier clair; mur-rideau Alumilex sur le lac; foyer</td></tr>
+    <tr><td>RDC</td><td>Cuisine</td><td>Sub-Zero (2 réfrigérateurs, congélateur), induction, four vapeur, pot filler, comptoirs Dekton</td></tr>
+    <tr><td>RDC</td><td>Suite des maîtres</td><td>Walk-in accessible depuis la salle de bain, douche double pleine hauteur, bain sur pattes, foyer au gaz, toilette séparée</td></tr>
+    <tr><td>RDC</td><td>3 chambres additionnelles</td><td>7 salles de bain au total pour la résidence</td></tr>
+    <tr><td>RDC</td><td>Piscine intérieure</td><td>Plafond de cèdre jaune, passerelle vitrée vers le gymnase, sauna de cèdre au quartz</td></tr>
+    <tr><td>Étage</td><td>Loft aménagé</td><td>Sur les 2 garages doubles, monte-charge, plancher d'ingénierie, salle de bain complète</td></tr>
+    <tr><td>SS</td><td>Sous-sol 5 330 pi²</td><td>Salle mécanique, gymnase privé</td></tr>
+    <tr><td>Ext.</td><td>Espaces extérieurs</td><td>Piscine à débordement en béton (cascade, dalles chauffantes), spa, cuisine extérieure complète</td></tr>
+  </table>
+
+  <h2>Les 12 bâtiments du domaine</h2>
+  <table class="bat">
+    <tr><th>Bâtiment</th><th>Année</th><th>Superficie / dim.</th><th>Usage / caractéristiques</th></tr>
+    <tr><td>Le Phare — rés. principale</td><td>2022</td><td>8 194 pi² + s-sol 5 330</td><td>4 chambres, 7 sdb; garantie GCR 2027</td></tr>
+    <tr><td>Le Chalet (1155)</td><td>≈ 1880, rén. 2007-09 / 2020-21</td><td>1 853 pi²</td><td>3 chambres; piscine creusée 32 pi au sel (2021); foyer au bois</td></tr>
+    <tr><td>Pavillon de piscine</td><td>2010, rén. 2024-25</td><td>170 pi²</td><td>Cuisine d'été, salle d'eau, sol terrazzo, au bord du lac</td></tr>
+    <tr><td>La Grange</td><td>≈ 1880, agr. 2009, rén. 2020-21</td><td>29 × 91 pi</td><td>Section cathédrale 17 pi, cuisine complète, dortoir, 1 sdb + 1 s. d'eau</td></tr>
+    <tr><td>La Shed</td><td>2021</td><td>1 560 pi² (26 × 60 pi)</td><td>Loft d'appoint : cuisine équipée, foyer au gaz, dortoir, terrasse couverte chauffée 25 × 16 pi</td></tr>
+    <tr><td>L'Atelier</td><td>2022</td><td>≈ 30 × 60 pi</td><td>Isolé et chauffé, qualité résidentielle, plafond 12 pi</td></tr>
+    <tr><td>La Serre</td><td>2010-16, rén. 2025</td><td>≈ 70 × 25 pi</td><td>Production horticole; puits indépendant, irrigation, dalle époxy</td></tr>
+    <tr><td>La Shop</td><td>2021</td><td>408 pi² (24 × 17 pi)</td><td>Atelier de rangement isolé, système Proslat</td></tr>
+    <tr><td>Le Garage</td><td>2025</td><td>≈ 1 260 pi² (24 × 50 pi)</td><td>4 voitures; céramique à chauffage radiant, 4 portes Garaga motorisées</td></tr>
+    <tr><td>Abri Archidome</td><td>2016</td><td>1 800 pi² (30 × 60 pi)</td><td>Structure d'acier, plafond 16 pi, entreposage/machinerie, génératrice</td></tr>
+    <tr><td>Le Poulailler</td><td>2024</td><td>6'3" × 3'3" + volière</td><td>Isolé et chauffé, 4 pondoirs</td></tr>
+    <tr><td>La Scierie</td><td>≈ 1950</td><td>—</td><td>Remise à bois et matériaux; toiture tôle 2021</td></tr>
+  </table>
+
+  <div class="pagebreak"></div>
+
+  <h2>Caractéristiques</h2>
+  <table class="grid">
+    <tr><td class="k">Approvisionnement eau</td><td class="v">Puits artésiens, adoucisseurs + filtration</td><td class="k">Système d'égouts</td><td class="v">Fosse Ecoflo (Phare); Bionest (Chalet, Grange, Shed)</td></tr>
+    <tr><td class="k">Fondation</td><td class="v">Béton coulé</td><td class="k">Revêtement de la toiture</td><td class="v">Acier (MacMetal)</td></tr>
+    <tr><td class="k">Revêtement</td><td class="v">Bardeau de cèdre blanc de l'Est (Maibec)</td><td class="k">Fenestration</td><td class="v">Aluminium Alumilex — mur-rideau (façade arrière)</td></tr>
+    <tr><td class="k">Énergie/Chauffage</td><td class="v">Géothermie — 5 systèmes, 5 puits (LeProhon)</td><td class="k">Mode chauffage</td><td class="v">Dalle radiante, zonage par pièce; appoint propane</td></tr>
+    <tr><td class="k">Entrée électrique</td><td class="v">600 A (400 A maison + 2 × 200 A)</td><td class="k">Génératrices</td><td class="v">4, à démarrage automatique</td></tr>
+    <tr><td class="k">Recharge VE</td><td class="v">3 bornes 220 V</td><td class="k">Télécommunications</td><td class="v">Fibre optique (IHR) — tous bâtiments habitables</td></tr>
+    <tr><td class="k">Piscines</td><td class="v">Intérieure; extérieure à débordement; creusée au sel (Chalet)</td><td class="k">Spa</td><td class="v">Oui + sauna cèdre au quartz</td></tr>
+    <tr><td class="k">Stationnement</td><td class="v">2 garages doubles intégrés + garage 4 voitures + allée</td><td class="k">Allée</td><td class="v">Chemin privé asphalté (2022, scellé 2024)</td></tr>
+    <tr><td class="k">Terrain</td><td class="v">Boisé, paysager, clôturé (clôtures à gibier)</td><td class="k">Plan d'eau</td><td class="v">Lac privé — 2 quais, ponton électrique; 3 plans d'eau oxygénés</td></tr>
+    <tr><td class="k">Aménagements</td><td class="v">Champ de lavande, verger, potager, sentiers</td><td class="k">Loisirs</td><td class="v">Pickleball, pétanque, îlot de Bali, baignade</td></tr>
+    <tr><td class="k">Domotique</td><td class="v">Éclairage, stores, rideaux encastrés, moustiquaires motorisées, caméras</td><td class="k">Autres</td><td class="v">Aspirateur central, chambre froide, garde-robe de cèdre</td></tr>
+    <tr><td class="k">Proximité</td><td class="v">Route des vins, village de Dunham (5 min), Bromont (20 min)</td><td class="k">Accès</td><td class="v">Montréal ≈ 1 h 15 – 1 h 30; frontière du Vermont ≈ 10 min</td></tr>
+    <tr><td class="k">Particularités du site</td><td class="v">Aucun voisin visible; forêt sous plan d'aménagement</td><td class="k">Efficacité énergétique</td><td class="v">Géothermie certifiée CCEG; 6-7 échangeurs d'air</td></tr>
+  </table>
+
+  <h2>Inclusions</h2>
+  <p class="txt">Vente clé en main : 6 voiturettes de golf, motoneige électrique Taiga, tracteur International restauré, 2 tondeuses industrielles, mini-zamboni, équipement nautique (paddleboards, kayaks, pédalos) et ponton électrique. Liste finale d'inclusions à confirmer — voir courtier inscripteur.</p>
+
+  <h2>Exclusions</h2>
+  <p class="txt">Piano (valeur ≈ 250 000 $), certaines pièces de mobilier et œuvres d'art. Voir courtier inscripteur pour la liste complète.</p>
+
+  <h2>Remarques</h2>
+  <p class="txt">Le 1155-1157, Ch. Dymond, Dunham — un domaine d'exception de 151,85 acres au cœur des Cantons-de-l'Est, aux abords de la route des vins et à environ 1 h 30 de Montréal.</p>
+  <p class="txt">Érigée en 2022, la résidence principale « Le Phare » (8 194 pi²) s'ouvre sur le lac privé par un mur-rideau courant sur toute la façade arrière. Plafonds cathédrale de 16 à 17 pieds habillés de peuplier clair, cuisine Sub-Zero aux comptoirs Dekton, mobilier intégré sur mesure, luminaires soufflés à la bouche, planchers de céramique radiante et domotique complète. Les espaces bien-être comprennent une piscine intérieure sous plafond de cèdre jaune reliée au gymnase par une passerelle vitrée, un sauna de cèdre au quartz, une piscine extérieure à débordement avec cascade et dalles chauffantes, un spa et une cuisine extérieure complète.</p>
+  <p class="txt">Le domaine réunit douze bâtiments, dont la résidence patrimoniale « Le Chalet » (≈ 1880, entièrement rénovée), une grange de 1880 réinventée, un loft d'invités tout confort, ateliers, serre de production et garage quatre voitures (2025). Conçu comme un projet de vie multigénérationnel, il offre une autonomie complète : géothermie (5 systèmes), 4 génératrices à démarrage automatique, entrée de 600 A, réseau électrique souterrain, fibre optique dans tous les bâtiments habitables.</p>
+  <p class="txt">Le territoire, entièrement ceinturé de clôtures à gibier et parcouru de sentiers, comprend un lac privé (2 quais, ponton électrique, baignade), trois plans d'eau oxygénés, ruisseaux et cascades, un champ de lavande (ancienne production biologique certifiée), un verger (pruniers, poiriers, pommiers, cerisiers, bleuets, camerises, argousiers), un potager clôturé et une forêt dotée d'un plan d'aménagement complet.</p>
+  <p class="txt">Vente avec garantie légale. Protection du territoire agricole. Visites privées sur rendez-vous — acheteurs qualifiés.</p>
+  <p class="note">Données tirées de la fiche technique du domaine (30 juin 2026), des certificats de localisation et du rôle d'évaluation foncière 2026. Certaines données à confirmer avant publication Centris.</p>
+
+  <div class="legal">
+    La présente ne constitue pas une offre ou une promesse pouvant lier le vendeur à l'acheteur, mais une invitation à soumettre de telles offres ou promesses.<br>
+    ©2026 Engel &amp; Völkers. Tous droits réservés. Chaque agence est une entreprise indépendante, exploitée de façon autonome. Toute l'information fournie est jugée fiable, mais n'est pas garantie et devrait être vérifiée de façon indépendante.
+  </div>
+
+</div>
+</body>
+</html>
