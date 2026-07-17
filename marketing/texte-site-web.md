@@ -44,7 +44,7 @@ Dehors, la séquence continue : une **piscine à débordement en béton** dont l
 
 ### Les garages, le loft et le sous-sol
 
-Deux **garages doubles intégrés** — quatre voitures à l'abri, chauffées — sont surmontés d'un **loft entièrement aménagé** : plancher d'ingénierie, salle de bain complète et **monte-charge** pour y monter bagages ou matériel sans effort. Bureau, studio, quartier d'invités supplémentaire : l'espace se prête à tout. Sous la maison, un **sous-sol de 5 330 pi²** abrite la salle mécanique — le cerveau technique du domaine — et le gymnase privé.
+Deux **garages doubles intégrés** — quatre voitures à l'abri, chauffées — sont surmontés d'un **loft entièrement aménagé** : plancher d'ingénierie, salle de bain complète et **monte-charge** pour y monter bagages ou matériel sans effort. Bureau, studio, quartier d'invités supplémentaire : l'espace se prête à tout. Sous la maison, un **sous-sol de 5 330 pi²** abrite notamment le gymnase privé.
 
 ### La technique, invisible et totale
 
@@ -78,9 +78,9 @@ On y arrive par une allée bordée d'arbres, on franchit le portail d'aluminium,
 
 La **cuisine, entièrement rénovée en 2021**, tient l'équilibre entre patrimoine et performance : un **îlot de granite de 13 pieds**, prolongé d'un plan de **merisier noir de 4 pieds**, autour duquel toute la maisonnée peut travailler, manger et discuter en même temps; les électroménagers datent de 2020. C'est une cuisine de réception dans un décor de maison de ferme — exactement ce qu'on attend d'elle.
 
-### L'étage et le sous-sol
+### L'étage
 
-L'étage compte **trois chambres**, dont la **chambre des maîtres avec salle d'eau communicante**. La **salle de bain complète, à douche d'ardoise**, sert les deux autres chambres; une salle d'eau au rez-de-chaussée complète l'ensemble. Sous la maison, un sous-sol de service — béton, plafond bas, comme à l'époque — rend les services qu'on lui demande : **garde-robe de cèdre, cellier, chambre froide** et rangement.
+L'étage compte **trois chambres**, dont la **chambre des maîtres avec salle d'eau communicante**. La **salle de bain complète, à douche d'ardoise**, sert les deux autres chambres; une salle d'eau au rez-de-chaussée complète l'ensemble, et la maison dispose aussi d'un **cellier**.
 
 ### L'extérieur
 
@@ -96,22 +96,22 @@ Au quotidien, Le Chalet est une leçon de rythme. L'été, la journée commence 
 
 ## La Shed
 
-Construite en 2021, **La Shed** est le loft d'appoint tout confort du domaine : **1 560 pi²** (26 × 60 pi) sous un plafond de 12 pieds, dalle de béton à l'époxy, intérieur de pin blanc et escalier d'acier et d'érable. Le rez-de-chaussée réunit une cuisine de service entièrement équipée, une salle de bain trois-quarts, un foyer au gaz et la salle mécanique; l'étage accueille un dortoir de deux lits. Une terrasse couverte et **chauffée de 25 × 16 pieds** — deux chauffe-terrasses au quartz — prolonge l'espace de vie en toute saison. Chauffée et climatisée par thermopompe, desservie par sa propre génératrice automatique, La Shed loge famille et invités en parfaite indépendance.
+Construite en 2021, **La Shed** est le loft d'appoint tout confort du domaine : **1 560 pi²** sous un plafond de 12 pieds, dalle de béton à l'époxy, intérieur de pin blanc et escalier d'acier et d'érable. Le rez-de-chaussée réunit une cuisine de service entièrement équipée, une salle de bain trois-quarts et un foyer au gaz; l'étage accueille un dortoir de deux lits. Une grande **terrasse couverte et chauffée** — deux chauffe-terrasses au quartz — prolonge l'espace de vie en toute saison. Chauffée et climatisée par thermopompe, desservie par sa propre génératrice automatique, La Shed loge famille et invités en parfaite indépendance.
 
 ## La Grange
 
-Bâtiment patrimonial de 1880, agrandi en 2009 puis rénové en profondeur en 2020-2021, **La Grange** (29 × 91 pi) repose désormais sur une fondation de béton coulé, sous un toit d'acier, avec charpente et parement de pruche. La partie d'origine conserve ses poutres de 1880 et s'ouvre en une section cathédrale de 17 pieds, très fenestrée, dotée d'une porte de garage vitrée de 11 pieds : on y trouve une cuisine complète (électroménagers 2021), une salle de bain à douche et un escalier d'érable. La partie dortoir, aménagée en 2021 (49 × 13 pi), offre une finition de contreplaqué de merisier, une salle d'eau et des combles aménagés. Génératrice automatique, fosse dédiée, traitement d'eau aux UV : la grange conjugue mémoire agricole et fonctionnalité contemporaine — réception, remisage ou atelier, à votre guise.
+Bâtiment patrimonial de 1880, agrandi en 2009 puis rénové en profondeur en 2020-2021, **La Grange** — plus de 2 600 pi² au sol — repose désormais sur une fondation de béton coulé, sous un toit d'acier, avec charpente et parement de pruche. La partie d'origine conserve ses poutres de 1880 et s'ouvre en une section cathédrale de 17 pieds, très fenestrée, dotée d'une grande porte de garage vitrée à porte piétonne intégrée : on y trouve une cuisine complète (électroménagers 2021), une salle de bain à douche et un escalier d'érable. La partie dortoir, aménagée en 2021, offre une finition de contreplaqué de merisier, une salle d'eau et des combles aménagés. Génératrice automatique, fosse dédiée, traitement d'eau aux UV : la grange conjugue mémoire agricole et fonctionnalité contemporaine — réception, remisage ou atelier, à votre guise.
 
 ## Les autres bâtiments
 
 Autour de ces quatre pièces maîtresses gravite un hameau complet, chaque bâtiment avec sa vocation :
 
 - **Le Pavillon de piscine** (2010, rénové 2024-2025) — au bord du lac, cuisine d'été, salle d'eau et sol de terrazzo.
-- **L'Atelier** (2022) — environ 30 × 60 pi, isolé et chauffé en qualité résidentielle sous un plafond de 12 pieds : atelier, studio ou salle de jeu.
+- **L'Atelier** (2022) — environ 1 800 pi², isolé et chauffé en qualité résidentielle sous un plafond de 12 pieds : atelier, studio ou salle de jeu.
 - **La Serre** (2010-2016, largement rénovée en 2025) — 70 pieds de production horticole, puits indépendant, irrigation, dalle d'époxy et porte motorisée.
 - **La Shop** (2021) — atelier de rangement isolé de 408 pi², système Proslat.
 - **Le Garage** (2025) — la plus récente construction du domaine : quatre voitures sur céramique à chauffage radiant, dalle d'époxy isolée, quatre portes Garaga motorisées.
-- **L'Abri Archidome** (2016) — dôme d'acier de 1 800 pi² sous 16 pieds de dégagement, raccordé à une génératrice : l'entreposage grande capacité.
+- **L'Abri Archidome** (2016) — dôme d'acier de 1 800 pi² au plafond de 16 pieds, raccordé à une génératrice : l'entreposage grande capacité.
 - **Le Poulailler** (2024) — isolé et chauffé, quatre pondoirs et volière grillagée.
 - **La Scierie** (vers 1950) — la remise à bois et matériaux, mémoire des origines agricoles du domaine.
 
