@@ -12,6 +12,12 @@ Douze bâtiments s'y répondent, de la résidence contemporaine de calibre ultra
 
 ## Le Phare
 
+### L'implantation
+
+Il y a des maisons qu'on pose sur un terrain, et d'autres qu'on compose avec lui. Le Phare appartient à la seconde famille. Son site a été choisi comme on choisit un point de vue : la façade arrière regarde le lac privé, les rangs de lavande descendent à sa gauche vers l'eau, la forêt ferme l'horizon, et aucun voisin n'existe nulle part dans le tableau. Le chemin privé asphalté (2022, scellé en 2024) y mène depuis la route en traversant le domaine, bordé d'un éclairage extérieur à DEL sur bollards et desservi par un système d'irrigation enfoui — l'arrivée elle-même a été dessinée.
+
+Selon l'heure, la maison change de rôle. Le matin, le mur-rideau capte le soleil levant sur le lac; l'après-midi, les terrasses prennent le relais; le soir venu, la maison s'illumine de l'intérieur et se reflète dans l'eau — c'est de ce spectacle qu'elle tient son nom.
+
 ### L'architecture
 
 Œuvre maîtresse du domaine, **Le Phare** a été érigé en 2022 par le constructeur Pierre Boivin et bénéficie de la garantie de maison neuve GCR, valide jusqu'en 2027. Son nom dit tout : posé entre le champ de lavande et le lac, le bâtiment capte la lumière le jour et la rend le soir, quand ses grandes parois vitrées s'allument doucement au-dessus de l'eau.
@@ -24,9 +30,11 @@ On entre sous un plafond de 12 pieds, accueilli par un lustre Restoration Hardwa
 
 La cuisine est une pièce d'équipement professionnel dans un écrin d'ébénisterie : appareils **Sub-Zero** — deux réfrigérateurs et un congélateur —, plaque à induction, four vapeur, pot filler au-dessus de la plaque, le tout serti dans des **comptoirs Dekton** et un mobilier intégré dessiné sur mesure par un ébéniste de Napierville. Ce mobilier intégré n'est d'ailleurs pas réservé à la cuisine : il court dans l'ensemble de la résidence, des rangements aux meubles des chambres, donnant à chaque pièce cette unité que seul le sur-mesure permet.
 
+Autour de l'aire de vie, les circulations ont reçu le même soin que les pièces d'apparat : les portes intérieures sont en **aluminium Kadrium**, une grande **porte escamotable (pocket) Quadrium** efface la frontière entre deux espaces quand on le souhaite, et les **planchers de céramique radiante** courent d'un mur à l'autre — pas une pièce froide, pas un seuil, pas une marche de trop. La lumière artificielle a été traitée comme un art à part entière : les luminaires Restoration Hardware soufflés à la bouche jalonnent la maison, du hall aux chambres.
+
 ### La suite des maîtres et les chambres
 
-La suite des maîtres occupe son propre univers : un **foyer au gaz privatif** pour les soirées d'hiver, un walk-in accessible directement depuis la salle de bain — la circulation du quotidien pensée dans le bon ordre —, une **douche double pleine hauteur**, un bain sur pattes posé face à la lumière et une toilette séparée. Trois autres chambres, chacune servie par la même qualité d'exécution, portent la maison à **quatre chambres et sept salles de bain** : personne n'attend jamais, même la maison pleine.
+La suite des maîtres occupe son propre univers : un **foyer au gaz privatif** pour les soirées d'hiver, un walk-in accessible directement depuis la salle de bain — la circulation du quotidien pensée dans le bon ordre —, une **douche double pleine hauteur**, un bain sur pattes posé face à la lumière et une toilette séparée. Trois autres chambres, chacune servie par la même qualité d'exécution et ses meubles intégrés, portent la maison à **quatre chambres et sept salles de bain** : personne n'attend jamais, même la maison pleine — et quand elle déborde, le loft, La Shed, La Grange et Le Chalet prennent le relais.
 
 ### L'aile bien-être
 
@@ -42,15 +50,23 @@ Deux **garages doubles intégrés** — quatre voitures à l'abri, chauffées �
 
 Tout ce confort repose sur une infrastructure pensée pour l'autonomie absolue. Le chauffage est géothermique : **cinq systèmes indépendants sur cinq puits** (installation LeProhon, certifiée CCEG), diffusés par des planchers de céramique radiante à la grandeur, avec **zonage pièce par pièce** et appoint au propane. L'entrée électrique de **600 ampères** (400 A pour la maison, deux fois 200 A pour les bâtiments voisins) est doublée de **génératrices à démarrage automatique** — dont une couvre la résidence entière : la tempête peut passer, la maison ne s'en apercevra pas.
 
-**Trois bornes de recharge 220 V** attendent les véhicules électriques. La **domotique** orchestre l'éclairage, les stores, les rideaux encastrés, les moustiquaires motorisées et les caméras. La fibre optique dessert la maison comme tous les bâtiments habitables du domaine. S'ajoutent l'aspirateur central, la chambre froide, la garde-robe de cèdre, l'adoucisseur et la filtration d'eau sur puits artésien, les portes intérieures d'aluminium Kadrium et la grande porte escamotable — mille détails qu'on ne voit pas et qui, ensemble, font qu'au Phare, tout fonctionne, tout le temps, sans y penser.
+**Trois bornes de recharge 220 V** attendent les véhicules électriques. La **domotique** orchestre l'éclairage, les stores, les rideaux encastrés, les moustiquaires motorisées et les caméras — chaque scène de la maison se règle du bout des doigts, sur place ou à distance. La fibre optique dessert la maison comme tous les bâtiments habitables du domaine : on y télétravaille aussi confortablement qu'au centre-ville. L'air est renouvelé par six à sept échangeurs d'air; l'eau du puits artésien passe par adoucisseur et filtration, avec analyses physico-chimiques au dossier; les eaux usées vont à une fosse Ecoflo. S'ajoutent l'aspirateur central, la chambre froide en PVC, la garde-robe de cèdre — mille détails qu'on ne voit pas et qui, ensemble, font qu'au Phare, tout fonctionne, tout le temps, sans y penser.
+
+### Une construction récente, une tranquillité durable
+
+Acheter Le Phare, c'est acheter du neuf sans les compromis du neuf : la maison a trois ans, sa **garantie GCR court jusqu'en 2027**, ses systèmes sont documentés, ses certificats de localisation sont à jour, et le constructeur comme les installateurs (géothermie LeProhon, portes et fenêtres Alumilex) sont identifiés au dossier. Dans un marché où les propriétés d'exception ont souvent l'âge de leurs rénovations, Le Phare offre ce qui ne se rénove pas : une conception d'origine cohérente, du premier plan au dernier interrupteur.
 
 ## Le Chalet
 
 ### Cent quarante-cinq ans d'histoire
 
-Cœur historique du domaine, **Le Chalet** veille sur le territoire depuis près d'un siècle et demi. Construit vers **1880**, il est de ces maisons qui ont vu passer les générations et qui portent leur âge comme une élégance. Deux grandes campagnes de travaux l'ont fait entrer dans le présent sans lui voler son âme : une rénovation complète en **2007-2009**, puis des travaux majeurs en **2020-2021**. Le parement Maibec a été repeint en 2022, la toiture refaite en 2024 — la maison est aussi saine qu'elle est belle.
+Cœur historique du domaine, **Le Chalet** veille sur le territoire depuis près d'un siècle et demi. Construit vers **1880**, il est de ces maisons qui ont vu passer les générations et qui portent leur âge comme une élégance. Deux grandes campagnes de travaux l'ont fait entrer dans le présent sans lui voler son âme : une rénovation complète en **2007-2009**, puis des travaux majeurs en **2020-2021** qui ont ajouté le mudroom et remis les systèmes au niveau du reste du domaine. Le parement Maibec a été repeint en 2022, la toiture d'asphalte refaite en 2024 — la maison est aussi saine qu'elle est belle.
 
-Son nom est inscrit en lettres de fer forgé sur la façade, à la manière des maisons de famille qu'on baptise parce qu'on sait qu'elles resteront.
+Son nom est inscrit en lettres de fer forgé sur la façade, à la manière des maisons de famille qu'on baptise parce qu'on sait qu'elles resteront. Avant que Le Phare ne soit bâti, c'est elle qui recevait; c'est dans ses murs que le projet du domaine est né, et cela se sent : tout, ici, a été fait pour durer et pour accueillir.
+
+### Son propre hameau
+
+Le Chalet occupe le secteur du 1155, à bonne distance de la résidence principale — assez proche pour partager le domaine, assez loin pour vivre sa propre vie. Autour de lui gravitent **La Grange** de 1880 et **La Shed**, avec lesquelles il partage un puits artésien foré en 2020 : un hameau dans le hameau, qui peut fonctionner en autarcie complète. Invités de longue durée, parents, enfants devenus grands, personnel de maison : chacun peut y vivre pleinement sans jamais croiser la routine du Phare — c'est l'architecture même du projet multigénérationnel.
 
 ### L'arrivée
 
@@ -72,7 +88,11 @@ Derrière la maison, une **terrasse de pavé uni** (2021-2022) descend vers la *
 
 ### Une maison autonome, elle aussi
 
-Le Chalet ne dépend de personne : chauffage par **thermopompe avec appoint au propane** (2021) doublé d'une thermopompe centrale (2008), isolation à l'uréthane, **puits artésien de 2020**, fosse Bionest, entrée électrique de **200 ampères** et **génératrice automatique**, aspirateur central et humidificateur central. En clair : la maison d'invités par excellence, un pied-à-terre plein de caractère pendant que la grande maison reçoit — ou le chapitre « patrimoine » d'un projet multigénérationnel où chaque génération a son toit.
+Le Chalet ne dépend de personne : chauffage par **thermopompe avec appoint au propane** (2021) doublé d'une thermopompe centrale (2008), **foyer au bois** en renfort, isolation à l'uréthane, **puits artésien de 2020** avec adoucisseur, fosse Bionest, entrée électrique de **200 ampères** et **génératrice automatique**, aspirateur central et humidificateur central. La fibre optique s'y rend comme partout ailleurs sur le domaine. Qu'une tempête isole la campagne pendant trois jours : le Chalet chauffe, éclaire, cuisine et travaille sans interruption.
+
+### L'art de vivre au 1155
+
+Au quotidien, Le Chalet est une leçon de rythme. L'été, la journée commence sur la galerie et finit dans la piscine au sel, avec le pavillon du lac comme camp de base des enfants; le potager clôturé et le poulailler sont à quelques pas, et le verger fournit les desserts. L'automne, le foyer reprend du service et la galerie devient loge devant la forêt qui tourne au rouge. L'hiver, la maison se resserre autour du bois qui craque — et comme les sentiers du domaine partent de la porte, les raquettes ne sont jamais loin. En clair : la maison d'invités par excellence, un pied-à-terre plein de caractère pendant que la grande maison reçoit — ou le chapitre « patrimoine » d'un projet multigénérationnel où chaque génération a son toit.
 
 ## La Shed
 
