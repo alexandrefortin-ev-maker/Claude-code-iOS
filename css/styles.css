@@ -203,6 +203,26 @@ button { font: inherit; background: none; border: none; cursor: pointer; color: 
 .dusk-bleed { margin-top: 0; }
 .dusk-bleed img { height: clamp(380px, 80vh, 820px); }
 
+.prose {
+  max-width: var(--w-narrow);
+  margin: clamp(3.5rem, 7vh, 6rem) auto 0;
+}
+.prose p { color: var(--stone); line-height: 1.85; }
+.prose p + .title-sm, .prose .title-sm { margin-top: 2.2rem; }
+.prose .title-sm:first-child { margin-top: 0; }
+.prose p + p { margin-top: 1.1rem; }
+
+.annex-outro {
+  margin-top: clamp(2.5rem, 5vh, 4rem);
+  text-align: center;
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-style: italic;
+  color: var(--stone);
+}
+
+.split-body .title-sm + .title-sm, .split-body p + .title-sm { margin-top: 1.8rem; }
+
 /* ---------- Split ---------- */
 
 .split {
