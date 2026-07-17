@@ -1,6 +1,6 @@
-# Domaine Dymond — 1155-1157 ch. Dymond, Dunham
+# Domaine Familial à Dunham
 
-Site web de présentation de la propriété (16 000 000 $) — Engel & Völkers, Équipe Deslauriers Fortin.
+Site web de présentation d'une propriété (16 000 000 $) à Dunham, Cantons-de-l'Est — Engel & Völkers, Équipe Deslauriers Fortin.
 
 Site statique bilingue (FR/EN) sans dépendances : HTML, CSS et JavaScript vanille.
 

@@ -1,4 +1,4 @@
-/* Domaine Dymond — interactions : i18n FR/EN, galerie, lightbox, navigation */
+/* Domaine Familial à Dunham — interactions : i18n FR/EN, galerie, lightbox, navigation */
 
 (function () {
   "use strict";
@@ -6,7 +6,7 @@
   /* ---------- i18n ---------- */
 
   const EN = {
-    "brand": "Domaine Dymond",
+    "brand": "Family Estate",
     "nav.domaine": "The Estate",
     "nav.phare": "Le Phare",
     "nav.chalet": "Le Chalet",
@@ -15,7 +15,8 @@
     "nav.contact": "Contact",
 
     "hero.kicker": "Eastern Townships · Québec",
-    "hero.title": "Domaine Dymond",
+    "hero.title": "A Family Estate in Dunham",
+    "hero.addr": "Precise location shared upon appointment",
     "hero.sub": "151.85 acres · Private lake · 2022 signature residence",
 
     "dom.eyebrow": "A world of its own",
@@ -57,7 +58,7 @@
     "chalet.h1": "The estate's historic heart, Le Chalet has watched over this land for nearly a century and a half. Built around 1880, it is one of those houses that have seen generations pass and wear their age like elegance. Two major campaigns of work brought it into the present without stealing its soul: a complete renovation in 2007-2009, then major works in 2020-2021. The Maibec cladding was repainted in 2022, the roof redone in 2024 — the house is as sound as it is beautiful.",
     "chalet.h2": "Its name is written in wrought-iron letters on the façade, in the manner of family houses that are christened because everyone knows they will remain. Before Le Phare was built, this was the house that received; it is within these walls that the estate's project was born, and it shows: everything here was made to last and to welcome.",
     "chalet.hameau.t": "Its own hamlet",
-    "chalet.hameau.p1": "Le Chalet occupies the 1155 sector, at a good distance from the main residence — close enough to share the estate, far enough to live its own life. Around it gravitate the 1880 Grange and La Shed, with which it shares an artesian well drilled in 2020: a hamlet within the hamlet, able to function in complete autonomy. Long-stay guests, parents, grown children: each can live here fully without ever crossing Le Phare's routine.",
+    "chalet.hameau.p1": "Le Chalet occupies its own sector of the estate, at a good distance from the main residence — close enough to share the estate, far enough to live its own life. Around it gravitate the 1880 Grange and La Shed, with which it shares an artesian well drilled in 2020: a hamlet within the hamlet, able to function in complete autonomy. Long-stay guests, parents, grown children: each can live here fully without ever crossing Le Phare's routine.",
     "chalet.arrivee.t": "The arrival",
     "chalet.arrivee.p1": "You arrive by a tree-lined lane, pass the aluminum gate, and are welcomed by the 51-foot covered porch that runs along the façade beneath its metal roof — the perfect observation post over the gardens, from morning coffee to the summer storm you watch fall while staying dry. A mudroom, added during the 2020-2021 works, handles the transition between outside and in, as a true country house should.",
     "chalet.int.t": "The interior",
@@ -69,7 +70,7 @@
     "chalet.ext.p1": "Behind the house, a paver terrace (2021-2022) steps down to the heated salt-water pool (2021), sheltered by a retractable awning. A few steps more and you reach the lake: the pool pavilion, built in 2010 and renovated in 2024-2025, awaits the summer afternoons with its summer kitchen, powder room, terrazzo floor and aluminum glass doors — the reception annex every swim dreams of.",
     "chalet.auto.t": "A self-sufficient house, too",
     "chalet.auto.p1": "Le Chalet depends on no one: heat-pump heating with propane backup (2021) doubled by a central heat pump, the wood fireplace in reserve, urethane insulation, a 2020 artesian well with softener, 200-ampere service and an automatic generator. Fibre optics reaches here as it does everywhere on the estate. Let a storm cut the countryside off for three days: Le Chalet heats, lights, cooks and works without interruption.",
-    "chalet.vie.t": "The art of living at 1155",
+    "chalet.vie.t": "The art of living at Le Chalet",
     "chalet.vie.p1": "Day to day, Le Chalet is a lesson in rhythm. In summer, the day begins on the porch and ends in the salt-water pool, with the lake pavilion as the children's base camp; the fenced kitchen garden and the henhouse are steps away, and the orchard supplies dessert. In autumn, the fireplace returns to duty and the porch becomes a box seat before the forest turning red. In winter, the house draws in around the crackling wood — and since the estate's trails start at the door, the snowshoes are never far. In short: the consummate guest house, a character-filled pied-à-terre while the main residence entertains — or the heritage chapter of a multigenerational project where every generation has its own roof.",
 
     "shed.eyebrow": "The guest loft · 2021",
@@ -150,10 +151,9 @@
     "lieu.d3d": "≈ 10 minutes",
     "lieu.d4t": "Dunham village",
     "lieu.d4d": "≈ 5 minutes",
-    "lieu.map": "View on Google Maps",
 
     "contact.eyebrow": "Private showings by appointment",
-    "contact.title": "Experience Domaine Dymond",
+    "contact.title": "Experience the Estate",
     "contact.p1": "The property is shown by appointment, upon presentation of pre-qualification. Our team will guide you with complete discretion, in English or French.",
     "contact.cad": "CAD",
     "contact.cta": "Arrange a private showing",
@@ -180,8 +180,8 @@
     document.documentElement.lang = lang;
     langToggle.textContent = lang === "en" ? "FR" : "EN";
     document.title = lang === "en"
-      ? "Domaine Dymond — 1155-1157 Dymond Rd, Dunham | Engel & Völkers"
-      : "Domaine Dymond — 1155-1157 ch. Dymond, Dunham | Engel & Völkers";
+      ? "A Family Estate in Dunham — Eastern Townships | Engel & Völkers"
+      : "Domaine Familial à Dunham — Cantons-de-l'Est | Engel & Völkers";
     currentLang = lang;
     localStorage.setItem("dymond-lang", lang);
   }
